@@ -1,4 +1,8 @@
-config.xml
-/dir0
-/dir1
+*.bat
+*.pdf
+*.xlsx
+*.xls
+*.c
+*.md5
+
 
